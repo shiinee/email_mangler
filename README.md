@@ -44,11 +44,6 @@ Here's how I set that up:
     repo, if you're a contributor.
 
 That's it. You can now work on your private fork, and pull new changes from the original
-as needed with:
-
-```
-git fetch upstream
-git rebase upstream/master
-```
+as needed with ``git pull upstream master``.
 
 (based on [GitHub's instructions for duplicating a repository without forking](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository))

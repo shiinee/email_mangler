@@ -1,0 +1,1 @@
+Email Mangler is an ~~aptly named~~ apps script that creates native filters for your Gmail account.
